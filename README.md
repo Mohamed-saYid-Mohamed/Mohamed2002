@@ -5,7 +5,7 @@
 
 ## 🚀 About Me  
 - 🎓 IT student at Zamzam University  
-- 💻 Passionate front-ende veloper: HTML, CSS, JavaScript  
+- 💻 Passionate front-ende devloper: HTML, CSS, JavaScript  
 - 🐍 Currently learning  full-stack skills  
 - 📂 I build fun & practical small projects (portfolios, games, websites, etc.)  
 - 🌍 From Somalia 
