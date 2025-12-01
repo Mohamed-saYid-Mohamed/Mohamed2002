@@ -1,5 +1,5 @@
 # 👋 Hey — I’m Mohamed  
-**Front-end Developer | Learner of Full-Stack Web Dev**  
+**Front-end Developer | Learner of Full-Stack Web Dev** 
 
 ![Header Banner](https://placehold.co/1200x240?text=Mohamed+Deeqsi+-+FrontEnd+Dev)
 
