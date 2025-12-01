@@ -44,7 +44,7 @@ Here are a few projects I’m proud of — feel free to explore 👇
 
 ## 💬 Let’s Connect  
 - 🌐 Portfolio / Live demo: _(add link if you have one)_  
-- 📫 Email: _(your email)_  
+- 📫 Email: _(mohammedeeqsi90@gmail.com)_  
 - 🐙 GitHub: https://github.com/Mohamed-saYid-Mohamed  
 
 ---
