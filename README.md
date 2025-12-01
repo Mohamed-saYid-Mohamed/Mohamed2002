@@ -31,7 +31,7 @@ Here are a few projects I’m proud of — feel free to explore 👇
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Mohamed-saYid-Mohamed&show_icons=true&theme=radical)  
+(https://github-readme-stats.vercel.app/api?username=Mohamed-saYid-Mohamed&show_icons=true&theme=radical)  
 
 ---
 
